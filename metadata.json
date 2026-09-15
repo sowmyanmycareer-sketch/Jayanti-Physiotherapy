@@ -1,0 +1,6 @@
+{
+  "name": "Jayanti Physiotherapy Clinic",
+  "description": "5.0-star physiotherapy center in Bengaluru featuring interactive 3D musculoskeletal biomechanics, 360° clinic tour, and Gemini thinking-powered recovery planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
